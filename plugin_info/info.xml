@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>jebble</id>
+    <name>Jebble</name>
+    <description>Plugin pour permettre à votre montre Pebble de contrôler Jeedom</description>
+    <icon>fa fa-clock-o</icon>
+    <licence>AGPL</licence>
+    <author>Edouard Kleinhans</author>
+    <installation>Aucune</installation>
+    <require>1.188</require>
+    <version>0.5</version>
+    <category>communication</category>
+</info>

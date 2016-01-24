@@ -1,0 +1,61 @@
+==== Configuration du plugin:
+
+Afin d'utiliser le plugin, vous devez le télécharger, l'installer et l'activer comme tout plugin Jeedom.
+
+Suite à cela il vous faudra installer le plugin Jeebble sur votre montre Pebble (disponible sur l'appstore pebble)
+
+==== Configuration des profils
+
+La configuration des équipements enOcean est accessible à partir du menu plugin :
+
+image:../images/jeebble_profils_menu.png[]
+
+Comme à beaucoup d'endroit sur Jeedom, mettre la souris tout à gauche permet de faire apparaître un menu d'accès rapide (vous pouvez à partir de votre profils le laisser toujours visible)
+
+Vous avez un bouton de création de profil et la liste des profils déjà créés.
+
+Une fois que vous cliquez sur l'un d'eux, vous obtenez : 
+
+image:../images/jeebble_profils.png[width=600]
+
+Vous retrouvez ici toute la configuration de votre profil : 
+
+* *Nom du profil* : nom de votre profil Pebble
+* *Objet parent* : indique l'objet parent auquel appartient le profil
+* *Activer* : permet de rendre votre profil actif
+* *Visible* : Désactivé
+
+En dessous vous retrouvez la liste des scénarios : 
+
+* *Nom* : le nom du scénario
+* *Groupe* : le nom du groupe défini pour le scénario
+
+==== Configuration de l'application sur votre montre Pebble
+
+Rendez vous dans l'appstore Pebble, puis chercher jeedom dans la partie Apps, vous y trouverez le plugin Jeebble :
+
+image:../images/jeebble_install.png[width=400]
+
+Ensuite, sélectionnez l'application Jeebble dans la partie Ma Pebble
+
+image:../images/jeebble_settings.png[width=400]
+
+Cliquez sur le bouton Réglages et vous arriverez ensuite sur la page de configuration :
+
+image:../images/jeebble_settings_page.png[width=400]
+
+Sur cette page vous trouverez deux éléments sections :
+
+* *Jeedom Base URL*
+
+Il faut saisir l'url d'accès à votre Jeedom
+
+Exemple : http://192.168.1.1/jeedom
+
+* *Jeedom API Key*
+
+Correspondant à la clef API de Jeedom, accessible via le menu Général > Administration > Configuration
+
+* *Mettre à jour les scénarios*
+
+Cet élément, lorsqu'il est coché, permet de recharger les informations venant de Jeedom. Cela nécessite, sur votre montre, de quitter puis relancer l'application Jeeble.
