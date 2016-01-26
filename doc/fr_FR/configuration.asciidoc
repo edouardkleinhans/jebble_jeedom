@@ -8,7 +8,7 @@ Suite à cela il vous faudra installer le plugin Jeebble sur votre montre Pebble
 
 La configuration des équipements enOcean est accessible à partir du menu plugin :
 
-image:../images/jeebble_profils_menu.png[]
+image:../images/jebble_profils_menu.png[]
 
 Comme à beaucoup d'endroit sur Jeedom, mettre la souris tout à gauche permet de faire apparaître un menu d'accès rapide (vous pouvez à partir de votre profils le laisser toujours visible)
 
@@ -16,7 +16,7 @@ Vous avez un bouton de création de profil et la liste des profils déjà créé
 
 Une fois que vous cliquez sur l'un d'eux, vous obtenez : 
 
-image:../images/jeebble_profils.png[width=600]
+image:../images/jebble_profils.png[width=600]
 
 Vous retrouvez ici toute la configuration de votre profil : 
 
@@ -28,7 +28,7 @@ Vous retrouvez ici toute la configuration de votre profil :
 En dessous vous retrouvez la liste des scénarios : 
 
 * *Nom* : le nom du scénario
-* *Groupe* : le nom du groupe défini pour le scénario
+* *Groupe* : le nom du groupe défini pour le scénario 
 
 ==== Configuration de l'application sur votre montre Pebble
 

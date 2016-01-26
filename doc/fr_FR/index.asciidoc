@@ -8,7 +8,7 @@ Plugin pour permettre à votre montre Pebble de contrôler Jeedom
 *Attention*, il n'est pour le moment possible que d'éxécuter des scénarios de jeedom.
 Si aucun profil n'est créé ou activé, les scénarios exécutables seront les scénarios activés; dans le cas contraire, les scénarios exécutables seront ceux sélectionnés dans le premier profil activé.
 
-image:../images/jeebble_screenshot.png[width=144]
+image:../images/jebble_screenshot.png[width=144]
 
 '''
 === Configuration
