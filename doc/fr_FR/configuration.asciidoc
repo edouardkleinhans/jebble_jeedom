@@ -34,11 +34,11 @@ En dessous vous retrouvez la liste des scénarios :
 
 Rendez vous dans l'appstore Pebble, puis chercher jeedom dans la partie Apps, vous y trouverez le plugin Jeebble :
 
-image:../images/jeebble_install.png[width=400]
+image:../images/jebble_install.png[width=400]
 
 Ensuite, sélectionnez l'application Jeebble dans la partie Ma Pebble
 
-image:../images/jeebble_settings.png[width=400]
+image:../images/jebble_settings.png[width=400]
 
 Cliquez sur le bouton Réglages et vous arriverez ensuite sur la page de configuration :
 
