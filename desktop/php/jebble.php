@@ -73,17 +73,10 @@ $eqLogics = eqLogic::byType('jebble');
 						<input type="checkbox" class="eqLogicAttr bootstrapSwitch" data-label-text="{{Visible}}" data-l1key="isVisible" disabled/>
 					</div>
                 </div>
-				<legend><i class="fa fa-wrench"></i> {{Configuration globale}}</legend>
-				<div class="form-group">
-                    <label class="col-lg-3 control-label" >{{Afficher les scénarios en cours}}</label>
-                    <div class="col-lg-2">
-                        <input type="checkbox" class="eqLogicAttr bootstrapSwitch" data-label-text="{{Activer}}" data-l1key="configuration" data-l2key="running_scenarios" disabled/>
-                    </div>
-                </div>
 				<div class="form-group">
 					<input class="eqLogicAttr form-control input-sm" data-l1key="configuration" data-l2key="display_ids" id="display_ids" style="display:none;" />
 				</div>
-            </fieldset>
+            </fieldset> 
         </form>
 
         <legend><i class="fa fa-list-alt"></i> {{Tableau des scénarios}}</legend>
