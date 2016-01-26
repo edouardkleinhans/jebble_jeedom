@@ -2,7 +2,7 @@
 
 Afin d'utiliser le plugin, vous devez le télécharger, l'installer et l'activer comme tout plugin Jeedom.
 
-Suite à cela il vous faudra installer le plugin Jeebble sur votre montre Pebble (disponible sur l'appstore pebble)
+Suite à cela il vous faudra installer le plugin Jebble sur votre montre Pebble (disponible sur l'appstore pebble)
 
 ==== Configuration des profils
 
@@ -32,11 +32,11 @@ En dessous vous retrouvez la liste des scénarios :
 
 ==== Configuration de l'application sur votre montre Pebble
 
-Rendez vous dans l'appstore Pebble, puis chercher jeedom dans la partie Apps, vous y trouverez le plugin Jeebble :
+Rendez vous dans l'appstore Pebble, puis chercher jeedom dans la partie Apps, vous y trouverez le plugin Jebble :
 
 image:../images/jebble_install.png[width=400]
 
-Ensuite, sélectionnez l'application Jeebble dans la partie Ma Pebble
+Ensuite, sélectionnez l'application Jebble dans la partie Ma Pebble
 
 image:../images/jebble_settings.png[width=400]
 
@@ -58,4 +58,4 @@ Correspondant à la clef API de Jeedom, accessible via le menu Général > Admin
 
 * *Mettre à jour les scénarios*
 
-Cet élément, lorsqu'il est coché, permet de recharger les informations venant de Jeedom. Cela nécessite, sur votre montre, de quitter puis relancer l'application Jeeble.
+Cet élément, lorsqu'il est coché, permet de recharger les informations venant de Jeedom. Cela nécessite, sur votre montre, de quitter puis relancer l'application Jebble.
