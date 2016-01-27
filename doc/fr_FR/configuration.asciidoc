@@ -42,7 +42,7 @@ image:../images/jebble_settings.png[width=400]
 
 Cliquez sur le bouton Réglages et vous arriverez ensuite sur la page de configuration :
 
-image:../images/jeebble_settings_page.png[width=400]
+image:../images/jebble_settings_page.png[width=400]
 
 Sur cette page vous trouverez deux éléments sections :
 
