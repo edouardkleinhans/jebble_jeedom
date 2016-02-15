@@ -20,7 +20,7 @@
 /*
  * Fonction pour l'ajout de commande, appellé automatiquement par plugin.template
  */
- 
+ /*
 $(".btn-success").on("click", function(e) {
 	var matches = [];
 	$(".scenarios:checked").each(function() {
@@ -28,6 +28,19 @@ $(".btn-success").on("click", function(e) {
 	});
 	$("#display_ids").val(JSON.stringify(matches));
 });
+*/
+
+function saveEqLogic(_eqLogic) {
+    
+    var matches = [];
+	$(".scenarios:checked").each(function() {
+		matches.push(this.id);
+	});
+    
+    _eqLogic.configuration.display_ids = JSON.stringify(matches);
+    return _eqLogic;
+}
+
 function addCmdToTable(_cmd) {
 	console.log('addCmdToTable');
 }
